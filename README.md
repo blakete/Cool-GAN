@@ -1,6 +1,8 @@
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 # Cool-GAN
-This GAN was made to generate a cool profile photo. 
+This GAN was made to generate a cool profile photo. I ended up generating a bunch of creepy faces as seen below 🤣
+
+<img src="figures/generated_plot_e100.png" style="width: 100%;">
 
 ## Requirements
 * Docker
